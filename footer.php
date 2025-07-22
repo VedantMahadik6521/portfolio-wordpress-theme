@@ -1,0 +1,1 @@
+<footer>© 2025 Vedant Mahadik</footer><?php wp_footer(); ?></body></html>
